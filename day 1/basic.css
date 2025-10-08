@@ -1,0 +1,42 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  color: teal;
+  font-size: 20px;
+  padding: 20px 10px 30px 10px;
+  margin: 20px;
+}
+h1 {
+  color: red;
+  font-size: 30px;
+}
+h2 {
+  color: teal;
+  font-size: 20px;
+}
+h3 {
+  color: purple;
+}
+h4 {
+  color: orange;
+  font-size: 46px;
+}
+p {
+  color: red;
+  font-size: 18px;
+}
+a {
+  color: brown;
+  font-size: 25px;
+}
+
+.myPara {
+  color: purple;
+  font-size: 30px;
+}
+#heading {
+  color: pink;
+  font-size: 48px;
+}
